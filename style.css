@@ -3,12 +3,12 @@
 }
 
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(111, 10, 194);
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(11, 4, 17);
  background-color: rgb(243, 117, 180); /
 }
 
 header{
-    background-color: #00FFFF;
+    background-color: #f4fafa;
     padding: 40px;
     display: flex;
     align-items: center;
