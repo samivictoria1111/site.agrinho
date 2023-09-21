@@ -4,11 +4,11 @@
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(0, 0, 0);
- background-color: rgb(194, 110, 162); /
+ background-color: rgb(255, 255, 255); /
 }
 
 header{
-    background-color: #050405;
+    background-color: #ffffff;
     padding: 40px;
     display: flex;
     align-items: center;
